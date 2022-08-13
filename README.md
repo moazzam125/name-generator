@@ -21,7 +21,7 @@ Download your suitable executable file by clicking on it.
 
 |   OS    |  file types  |  Support  |
 |---------|--------------|-----------|
-| Windows | [.exe](#) | Windows 2000 or above |
+| Windows | [.exe](#) | Windows 7 or above |
 | macOS | [.dmg](#) | macOS 10.7 or above |
 | Linux | [.tar.gz](#) | Linux kernel 2 or above |
 
