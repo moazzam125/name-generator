@@ -21,9 +21,9 @@ Download your suitable executable file by clicking on it.
 
 |   OS    |  file types  |  Support  |
 |---------|--------------|-----------|
-| Windows | [.exe](#) | Windows 7 or above |
+| Windows | [.exe](https://github.com/moazzam125/name-generator/releases/download/untagged-b11cb7cdf615838a8e3e/name-generator.exe) | Windows 7 or above |
 | macOS | ~~[.dmg](#)~~ | (!) Build Failed |
-| Linux | [.tar.gz](#) | Linux kernel 2 or above |
+| Linux | [.tar.gz](https://github.com/moazzam125/name-generator/releases/download/untagged-b11cb7cdf615838a8e3e/name-generator.tar.gz) | Linux kernel 2 or above |
 
 > macOS Build Failed due to System issues
 
