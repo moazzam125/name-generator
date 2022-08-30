@@ -1,6 +1,11 @@
-import sys, random
+'''
+Main File
+---------
+'''
+import sys
+import random
 
-print("Name Generator 0.1b1\n--------------------\n")
+print("Name Generator 0.1\n------------------\n")
 
 first = ('Baby Oil', 'Bad News', 'Big Burps', "Bill 'Beenie-Weenie'",
          "Bob 'Stinkbug'", 'Bowel Noises', 'Boxelder', "Bud 'Lite'",
@@ -35,11 +40,11 @@ last = ('Appleyard', 'Bigmeat', 'Bloominshine', 'Boogerbottom',
 
 while True:
     firstName = random.choice(first)
-    lastName = random.choice(last)    
+    lastName = random.choice(last)
     print("Suggestion:\n{} {}".format(firstName, lastName), file=sys.stderr)
 
     user_input = input("\nGenerate More? (Press Enter else 'q' to quit)\n>>> ")
-    
+
     if user_input.lower() == "q":
         print("Quit")
         break
